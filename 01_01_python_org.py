@@ -1,3 +1,7 @@
-print ("Hello Python World")
+#Having comments makes errors easier to fix
 
-#Terminal works
+#Commands are read in interactive mode.
+
+#Primary prompt uses (>>>) while secondary prompts use (...)
+
+#Integer numbers use (int) while fractions use (float)
