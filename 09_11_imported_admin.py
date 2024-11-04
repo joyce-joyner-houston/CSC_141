@@ -1,3 +1,4 @@
+#Challenge level - 10
 #admin_module.py
 class Privileges:
     def __init__(self):
