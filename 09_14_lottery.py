@@ -1,3 +1,4 @@
+#Challenge level - 2
 import random
 
 lottery_elements = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 'A', 'B', 'C', 'D', 'E']
