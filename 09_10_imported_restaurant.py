@@ -1,3 +1,4 @@
+#Challenge level - 10
 #restaurant.py
 class Restaurant:
     def __init__(self, name, cuisine_type):
