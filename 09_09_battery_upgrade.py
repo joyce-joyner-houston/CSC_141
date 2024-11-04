@@ -1,3 +1,4 @@
+#Challenge level - 3
 class Battery:
     def __init__(self, battery_size=75):
         self.battery_size = battery_size
